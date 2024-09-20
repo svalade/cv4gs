@@ -1,5 +1,5 @@
 ## Course information
-This class is a general introduction to computer vision methods relevant in geoscience. It teaches classical computer vision methods and machine learning based techniques. It was taught at UNAM in 2021.
+This class is a general introduction to computer vision methods relevant in geoscience. It teaches classical computer vision methods and machine learning based techniques. It was first taught at UNAM in 2021 (material below). An updated version of the course is currently taught at UNAM (2024), and will soon be available here.
 
 You can open all notebooks in binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/svalade/cv4gs/HEAD).
 
