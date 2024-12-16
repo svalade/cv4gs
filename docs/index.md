@@ -1,5 +1,5 @@
 ## Course information
-This class is a general introduction to computer vision methods relevant in geoscience. It teaches classical computer vision methods and machine learning based techniques. 
+This class is a general introduction to computer vision methods relevant in geosciences. It covers basic digital image processing, classic computer vision and machine learning algorithms, as well as modern deep learning approaches.
 
 It was first conceptualized and taught by Sébastien Valade ([UNAM](https://svalade.github.io/)) and Manuel Wöllhaf ([TUB](https://www.tu.berlin/cv/ueber-uns/manuel-woellhaf)) at UNAM in 2021. An updated version of the course is currently taught at UNAM (2024), with special guest speaker Ronny Hänsch ([DLR](http://www.rhaensch.de/)).
 
@@ -14,5 +14,5 @@ It was first conceptualized and taught by Sébastien Valade ([UNAM](https://sval
 
 ## Course editions
 
-* [2024 edition](./2024/index.md) (ongoing)
+* [2024 edition](./2024/index.md)
 * [2021 edition](./2021/index.md)
