@@ -17,43 +17,43 @@
 ## Lectures
 
 ### <span style="font-weight:600; font-size:0.8em;">Introduction</span>
-* Introduction (<a href="./lectures/CV4GS-0_introduction.pdf" target="_blank" rel="noopener noreferrer">slides</a>)
+* Introduction: <a href="./lectures/CV4GS-0_introduction.pdf" target="_blank" rel="noopener noreferrer">slides</a>
 
 ### <span style="font-weight:600; font-size:0.8em;">Lecture 1:</span> <span style="font-weight:400; font-size:0.75em; color:#767676;">Python & Jupyter crash course</span>
-* Lecture: (<a href="./lectures/CV4GS-0_python-jupyter.pdf" target="_blank" rel="noopener noreferrer">slides</a>)
+* Lecture: <a href="./lectures/CV4GS-0_python-jupyter.pdf" target="_blank" rel="noopener noreferrer">slides</a>
 * Tutorial: Python (<a href="./exercises/CV4GS-0_python-jupyter/CV4GS_01_python-tutorial.ipynb" target="_blank" rel="noopener noreferrer">notebook</a>, <a href="./exercises/CV4GS-0_python-jupyter/CV4GS_01_python-tutorial.slides.html" target="_blank" rel="noopener noreferrer">notebook slides</a>)
 * Tutorial: Jupyter (<a href="./exercises/CV4GS-0_python-jupyter/CV4GS_01_jupyter-tutorial.ipynb" target="_blank" rel="noopener noreferrer">notebook</a>, <a href="./exercises/CV4GS-0_python-jupyter/CV4GS_01_jupyter-tutorial.slides.html" target="_blank" rel="noopener noreferrer">notebook slides</a>)
 
 ### <span style="font-weight:600; font-size:0.8em;">Lecture 2</span> <span style="font-weight:400; font-size:0.75em;">(CV1):</span> <span style="font-weight:400; font-size:0.75em; color:#767676;">Digital image basics</span>
-* Lecture: (<a href="./lectures/CV4GS-1_CV1_image-basics.pdf" target="_blank" rel="noopener noreferrer">slides</a>)
+* Lecture: <a href="./lectures/CV4GS-1_CV1_image-basics.pdf" target="_blank" rel="noopener noreferrer">slides</a>
 * Exercises: <a href="./exercises/CV4GS-1_CV1_image-basics/exercises.ipynb" target="_blank" rel="noopener noreferrer">notebook</a>
 
 ### <span style="font-weight:600; font-size:0.8em;">Lecture 3</span> <span style="font-weight:400; font-size:0.75em;">(CV2):</span> <span style="font-weight:400; font-size:0.75em; color:#767676;">Filtering</span>
-* Lecture: (<a href="./lectures/CV4GS-1_CV2_filtering.pdf" target="_blank" rel="noopener noreferrer">slides</a>)
+* Lecture: <a href="./lectures/CV4GS-1_CV2_filtering.pdf" target="_blank" rel="noopener noreferrer">slides</a>
 * Exercises: <a href="./exercises/CV4GS-1_CV2_filtering/exercises.ipynb" target="_blank" rel="noopener noreferrer">notebook</a>
 
 ### <span style="font-weight:600; font-size:0.8em;">Lecture 4</span> <span style="font-weight:400; font-size:0.75em;">(ML1):</span> <span style="font-weight:400; font-size:0.75em; color:#767676;">Regression</span>
-* Lecture: (<a href="./lectures/CV4GS-2_ML1_regression.pdf" target="_blank" rel="noopener noreferrer">slides</a>)
+* Lecture: <a href="./lectures/CV4GS-2_ML1_regression.pdf" target="_blank" rel="noopener noreferrer">slides</a>
 * Exercises: <a href="./exercises/CV4GS-2_ML1_regression/exercises.ipynb" target="_blank" rel="noopener noreferrer">notebook</a>
 
 ### <span style="font-weight:600; font-size:0.8em;">Lecture 5</span> <span style="font-weight:400; font-size:0.75em;">(ML2):</span> <span style="font-weight:400; font-size:0.75em; color:#767676;">Classification</span>
-* Lecture: (<a href="./lectures/CV4GS-2_ML2_classification.pdf" target="_blank" rel="noopener noreferrer">slides</a>)
+* Lecture: <a href="./lectures/CV4GS-2_ML2_classification.pdf" target="_blank" rel="noopener noreferrer">slides</a>
 * Exercises: <a href="./exercises/CV4GS-2_ML2_classification/exercises.ipynb" target="_blank" rel="noopener noreferrer">notebook</a>
 
 ### <span style="font-weight:600; font-size:0.8em;">Lecture 6</span> <span style="font-weight:400; font-size:0.75em;">(DL1):</span> <span style="font-weight:400; font-size:0.75em; color:#767676;">Shallow Neural Networks (MLPs)</span>
-* Lecture: (<a href="./lectures/CV4GS-3_DL1_mlp.pdf" target="_blank" rel="noopener noreferrer">slides</a>)
+* Lecture: <a href="./lectures/CV4GS-3_DL1_mlp.pdf" target="_blank" rel="noopener noreferrer">slides</a>
 * Exercises: <a href="./exercises/CV4GS-3_DL1_mlp/exercises.ipynb" target="_blank" rel="noopener noreferrer">notebook</a>
 
 ### <span style="font-weight:600; font-size:0.8em;">Lecture 7</span> <span style="font-weight:400; font-size:0.75em;">(DL2):</span> <span style="font-weight:400; font-size:0.75em; color:#767676;">Convolutional Neural Networks (CNNs)</span>
-* Lecture: (<a href="./lectures/CV4GS-3_DL2_cnn.pdf" target="_blank" rel="noopener noreferrer">slides</a>, <a href="./lectures/CV4GS-3_DL2_cnn_classification-roadmap.pdf" target="_blank" rel="noopener noreferrer">classification roadmap</a>)
+* Lecture: <a href="./lectures/CV4GS-3_DL2_cnn.pdf" target="_blank" rel="noopener noreferrer">slides</a>, <a href="./lectures/CV4GS-3_DL2_cnn_classification-roadmap.pdf" target="_blank" rel="noopener noreferrer">classification roadmap</a>
 * Exercises: <a href="./exercises/CV4GS-3_DL2_cnn/exercises.ipynb" target="_blank" rel="noopener noreferrer">notebook</a>
 
 ### <span style="font-weight:600; font-size:0.8em;">Lecture 8</span> <span style="font-weight:400; font-size:0.75em;">(DL3):</span> <span style="font-weight:400; font-size:0.75em; color:#767676;">Convolutional Encoder-Decoder achitectures</span>
-* Lecture: (<a href="./lectures/CV4GS-3_DL3_cnn-encdec.pdf" target="_blank" rel="noopener noreferrer">slides</a>)
+* Lecture: <a href="./lectures/CV4GS-3_DL3_cnn-encdec.pdf" target="_blank" rel="noopener noreferrer">slides</a>
 
 ## Projects
 Group project (Weeks 11-14), *in collaboration with Sophie Giffard-Roisin* (<a href="https://sophiegif.github.io/" target="_blank" rel="noopener noreferrer">IRD - ISTerre</a>)
-* Projects (<a href="./projects/PROJECTS-2026.pdf" target="_blank" rel="noopener noreferrer">slides</a>)
+* Projects: <a href="./projects/PROJECTS-2026.pdf" target="_blank" rel="noopener noreferrer">slides</a>
 
 
 ## Recommended Literature
