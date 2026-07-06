@@ -1,4 +1,4 @@
-<a href="../index.html" target="_blank" rel="noopener noreferrer">Home</a>
+<a href="../index.html">Home</a>
 
 # <u>2026 course edition</u>
 **Third course edition, taught at UNAM in 2026.**  

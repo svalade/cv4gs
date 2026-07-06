@@ -1,7 +1,7 @@
 ## Course information
-This class is a general introduction to computer vision methods relevant in geosciences. It covers basic digital image processing, classic computer vision and machine learning algorithms, as well as modern deep learning approaches.
+This class is a general introduction to computer vision methods relevant in geosciences. It covers basic digital image processing, classic computer vision and machine learning algorithms, as well as modern deep learning approaches. Lectures are organized into three main sections: *Computer Vision* (CV), *Machine Learning* (ML), and *Deep Learning* (DL).
 
-It was first conceptualized and taught by Sébastien Valade ([UNAM](https://svalade.github.io/)) and Manuel Wöllhaf ([TUB](https://www.tu.berlin/cv/ueber-uns/manuel-woellhaf)) at UNAM in 2021. A second, updated edition was taught in 2024, with guest speaker Ronny Hänsch ([DLR](http://www.rhaensch.de/)). A third edition was taught in 2026, with collaboration from Sophie Giffard-Roisin ([IRD - ISTerre](https://sophiegif.github.io/)) for the group projects in deep learning.
+*The course was first conceptualized and taught by Sébastien Valade ([UNAM](https://svalade.github.io/)) and Manuel Wöllhaf ([TUB](https://www.tu.berlin/cv/ueber-uns/manuel-woellhaf)) at UNAM in 2021. A second, updated edition was taught in 2024, with guest speaker Ronny Hänsch ([DLR](http://www.rhaensch.de/)). A third edition was taught in 2026, with collaboration from Sophie Giffard-Roisin ([IRD - ISTerre](https://sophiegif.github.io/)) for the group projects in deep learning.*
 
 <div style="text-align: center; margin-top: 0;">
     <img src="featured.jpg" alt="Optical flow analysis on Nyiragongo lava lake (Valade et al. 2018 EPSL)" width="300"/>
